@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm George, a full-time full-stack engineer 👨‍💻  </div>  
+### <div align="center">I'm George, a JavaScript engineer 👨‍💻 and a full-time geek. </div>  
   
 
 <br/>  
